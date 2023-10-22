@@ -1,0 +1,47 @@
+/*This is to style the whole web page*/
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction:column;
+    font-family: 'Montserrat', 'Noto Sans Mahajani', 'Rubik', sans-serif;
+    height: 700px;
+    background: rgb(34,193,195);
+  background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(238,215,180,1) 71%);
+  }
+  
+  /*This is to style the Question box/container */
+  #quiz-container{
+    border:solid;
+    border-radius: 10%;
+    display:flex;
+    flex-direction:column;
+    padding: 20px;
+    background-color: white; 
+    color: black;
+    padding: 20px; 
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); 
+    transition: transform 0.2s ease, box-shadow 0.2s   ease;
+  }
+  
+  /*This is to style the next question button*/
+  button {
+      display: inline-block;
+      padding: 10px 20px;
+      color: #000; 
+      border: none; 
+      border-radius: 20px; 
+      cursor: pointer;
+      text-transform: uppercase; 
+      font-weight: bold; 
+      transition: background-color 0.3s ease, color 0.3s ease; 
+  }
+  
+  /* This is to Style the button on hover */
+  button:hover {
+      background-color: #ccc; 
+      color: #000; 
+  }
+    
