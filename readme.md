@@ -25,8 +25,7 @@ Upon completing the quiz, the projgitect provides users with a summary of their 
 
 
 # How to Use
-
-1. **Clone this repository** to your local machine.
+git
 2. **Open the `index.html` file** in a web browser.
 3. **Start the quiz** by clicking the "Next Question" button.
 4. **Answer the questions** and receive immediate feedback.
@@ -35,7 +34,7 @@ Upon completing the quiz, the projgitect provides users with a summary of their 
 
 # Acknowledgments
 
-This project is inspired by the need for interactive and educational content related to geography. It demonstrates the application of programming concepts, including loops, conditionals, and event handling in a web-based quiz.
+ It demonstrates the application of programming concepts, including loops, conditionals, and event handling in a web-based quiz.
 
 Enjoy the quiz and test your knowledge of the world's geography!
 
