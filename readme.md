@@ -14,14 +14,14 @@ This interactive Geography Quiz project is a web application built using HTML, C
 The project leverages JavaScript to dynamically display questions and answer choices. It uses JavaScript to manipulate the DOM and update the content as users progress through the quiz.
 
 
-###Quiz Progression
+### Quiz Progression
 
 Users can move to the next question once they've answered the current one. The JavaScript code manages 
 the quiz progression and displays a "Finish" button when users reach the last question.
 
-###Quiz Results
+### Quiz Results
 
-Upon completing the quiz, the project provides users with a summary of their performance, showing the number of correct answers out of the total questions. It also offers the option to restart the quiz.
+Upon completing the quiz, the projgitect provides users with a summary of their performance, showing the number of correct answers out of the total questions. It also offers the option to restart the quiz.
 
 
 # How to Use
